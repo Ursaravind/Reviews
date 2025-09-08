@@ -1,0 +1,11 @@
+name height weight abilities    
+bulbasaur 7 69 "overgrow  chlorophyll"    
+ivysaur 10 130 "overgrow  chlorophyll"    
+venusaur 20 1000 "overgrow  chlorophyll"    
+charmander 6 85 "blaze  solar-power"    
+charmeleon 11 190 "blaze  solar-power"    
+charizard 17 905 "blaze  solar-power"    
+squirtle 5 90 "torrent  rain-dish"    
+wartortle 10 225 "torrent  rain-dish"    
+blastoise 16 855 "torrent  rain-dish"    
+caterpie 3 29 "shield-dust  run-away"

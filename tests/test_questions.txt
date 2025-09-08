@@ -1,0 +1,20 @@
+Project:
+
+Multiple Input sources of Data
+Multiple Output formats
+
+Initial Input:
+API Input - task 1
+CSV Input - later - task 5
+
+Output:
+Txt - tab separated - task 2
+csv - comma separated - task 3
+pdf - task 4
+
+Follow SOLID priniciples
+Runner or Action or Executor class - takes user input
+1) Input Source
+2) Output Format
+Get at least 10 Pokemon with their activity in English language.
+Maintain a text file of all the Searches.

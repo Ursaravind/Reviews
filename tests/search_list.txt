@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/python/python-api-tutorial-getting-started-with-apis/
+https://www.geeksforgeeks.org/python/python-json-to-list/
+https://stackoverflow.com/questions/10973614/convert-json-array-to-python-list
+https://www.geeksforgeeks.org/python/how-to-convert-csv-columns-to-text-in-python/
+https://www.geeksforgeeks.org/python/how-to-convert-csv-columns-to-text-in-python/
+https://www.geeksforgeeks.org/python/convert-text-and-text-file-to-pdf-using-python/
+https://medium.com/@techwithjulles/python-converts-a-text-file-to-pdf-format-214b57510b27
+https://products.aspose.com/words/python-net/conversion/txt-to-pdf/
+https://discuss.python.org/t/text-to-pdf-using-fpdf/23388
+https://discuss.python.org/t/text-to-pdf-using-fpdf/23388
+https://py-pdf.github.io/fpdf2/PageFormatAndOrientation.html
