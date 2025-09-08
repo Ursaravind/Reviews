@@ -1,6 +1,10 @@
 import requests
 
+"""Testing api """
+
 def get_pokemon_details():
+    """This method tests the api and check the results"""
+    
     url = "https://pokeapi.co/api/v2/pokemon?limit=10"
     response = requests.get(url)
     if response.status_code == 200:

@@ -19,8 +19,3 @@ This project demonstrates the application of SOLID principles while fetching dat
   - `pokemon_api.py`: Handles API requests for Pokémon data.
 - `tests/`: Includes test files.
 
-## License
-MIT License - See LICENSE file for details.
-
-## Contact
-For questions, reach out at [your-email@example.com].
