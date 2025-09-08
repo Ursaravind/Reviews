@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environment
 my_venv/
+__init__.py
 
 
 # Temporary or build files
